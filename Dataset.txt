@@ -1,0 +1,5 @@
+ICEWS14 Dataset, “Integrated Crisis Early Warning System 2014,” Available: https://huggingface.co/datasets/linxy/ICEWS14 [Accessed: Oct. 2025]
+ICEWS05-15 Dataset, “Integrated Crisis Early Warning System 2005-2015,” TKGC Benchmark Datasets, Available: https://github.com/stmrdus/TKGC-Benchmark-Datasets [Accessed: Oct. 2025]
+GDELT Project, “Global Data on Events, Location, and Tone,” Available: https://www.kaggle.com/datasets/gdelt/gdelt [Accessed: Oct. 2025]
+ICEWS18 Dataset, “Integrated Crisis Early Warning System 2018,” Deep Graph Library (DGL), Available: https://www.dgl.ai/dgl_docs/generated/dgl.data.ICEWS18Dataset.html [Accessed: Oct. 2025]
+TimeBank Dataset, “Temporal Annotation Corpus,” Available: https://www.kaggle.com/datasets/thanh097/timebench [Accessed: Oct. 2025]
