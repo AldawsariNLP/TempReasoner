@@ -400,20 +400,13 @@ export CUBLAS_WORKSPACE_CONFIG=:4096:8
 
 - **Issues**: [GitHub Issues](https://github.com/AldawsariNLP/TempReasoner/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/AldawsariNLP/TempReasoner/discussions)
-- **Email**: [contact@example.com]
 
 ## Citation
 
 If you use TempReasoner in your research, please cite:
 
 ```bibtex
-@article{tempreasoner2025,
-  title={TempReasoner: Neural Temporal Graph Networks for Event Timeline Construction},
-  author={Aldawsari, et al.},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2025},
-  doi={10.1109/TNNLS.2025.XXXXXXX}
-}
+
 ```
 
 ## License
@@ -424,7 +417,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Datasets: ICEWS, GDELT, TimeBank
 - Baseline implementations: TComplEx, TeMP, HyTE, RE-NET
-- Computing resources: [Your institution]
+
 
 ---
 
